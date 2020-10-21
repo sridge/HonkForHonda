@@ -36,4 +36,9 @@ In addition to well-documented, extendable, and reusable code we are looking for
 | state_name | State name |
 | weather | avg. temp. for location in Oct./Nov. |
 
-This data is raw data from Craigslist. 
+This data is raw data from Craigslist.
+
+# Instructions:
+* Limit yourself to 4 hours' time
+* Data are contained in links above
+* Push your completed jupyter notebook to the Submissions folder
