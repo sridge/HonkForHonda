@@ -41,4 +41,4 @@ This data is raw data from Craigslist.
 # Instructions:
 * Limit yourself to 4 hours' time
 * Data are contained in links above
-* Push your completed jupyter notebook to the Submissions folder
+* Push your completed jupyter notebook to the Submissions folder following the naming convention "Last_First_DC2.ipynb"
